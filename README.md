@@ -8,17 +8,17 @@
 ⚡ Constantemente me encuentro reforzando y profundizando mis conocimientos en la programación.</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.3 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2023
+> 🏆 70 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,10 +29,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-🌆 Daytime                35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌙 Night                  91 commits          █████████████░░░░░░░░░░░░   50.56 % 
+🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+🌆 Daytime                35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+🌙 Night                  92 commits          █████████████░░░░░░░░░░░░   50.83 % 
 ```
 
 
@@ -42,11 +42,7 @@
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
-JSON                     2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-HTML                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Java                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Java                     21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,7 +55,7 @@ TypeScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 21/05/2023 19:19:12 UTC
+ Last Updated on 11/06/2023 01:12:16 UTC
 <!--END_SECTION:waka-->
 
 
