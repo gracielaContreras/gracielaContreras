@@ -8,31 +8,31 @@
 ⚡ Constantemente me encuentro reforzando y profundizando mis conocimientos en la programación.</p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.6 kB Used in GitHub's Storage 
+> 📦 5.4 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2023
+> 🏆 90 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-🌆 Daytime                36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-🌃 Evening                46 commits          ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌙 Night                  97 commits          █████████████░░░░░░░░░░░░   51.87 % 
+🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+🌆 Daytime                39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+🌃 Evening                54 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌙 Night                  97 commits          ████████████░░░░░░░░░░░░░   48.99 % 
 ```
 
 
@@ -42,22 +42,24 @@
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Java                     3 hrs 34 mins       ████████████████████████░   94.72 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     4 hrs 52 mins       ███████████████░░░░░░░░░░   61.55 % 
+XML                      1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+YAML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            ██████████████████████░░░   90.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     20 repos            ███████████████████████░░   90.91 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 20/06/2023 05:36:03 UTC
+ Last Updated on 25/07/2023 13:02:30 UTC
 <!--END_SECTION:waka-->
 
 
